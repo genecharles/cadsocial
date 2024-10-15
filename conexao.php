@@ -7,11 +7,6 @@ if($url[1] == 'localhost/'){
 	$url_sistema = "http://$_SERVER[HTTP_HOST]/cadsocial/";
 }*/
 
-/*$usuario = 'hugocu75_escritorio';
-$senha = 'escritoriohugo';
-$servidor = 'sh-pro24.hostgator.com.br';
-$banco = 'hugocu75_escritorio';*/
-
 // conexao local
 	$usuario = 'root';
 	$senha = '';
